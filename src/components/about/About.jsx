@@ -41,7 +41,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam dolorum ea officiis consequatur sit quia non quos voluptate doloremque iste dolores unde optio, recusandae rem reiciendis numquam porro voluptatem itaque.
+            I , am a hardworking student who seek's for knowledge for every form of technologies , and very pasionant about web developing. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

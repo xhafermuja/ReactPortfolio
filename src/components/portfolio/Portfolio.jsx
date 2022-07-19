@@ -10,14 +10,14 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Sarajeva Steak House',
-    github: 'https://github.com',
+    github: 'https://github.com/xhafermuja/SarajevaSteakHouse-1',
     demo: "_blank"
   },
   {
     id: 2,
     image: IMG2,
     title: 'Fakulteti i Shkencave Kompjuterike',
-    github: 'https://github.com',
+    github: 'https://github.com/xhafermuja/FSHK',
     demo: "_blank"
   }
 ]
